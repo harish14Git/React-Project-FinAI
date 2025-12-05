@@ -58,7 +58,7 @@ const AIRecommendations = () => {
         </div>
 
         <img
-          src="/src/assets/Images/ai-insights.png"
+          src="/src/assets/images/ai-insights.png"
           className="header-image"
           alt="AI Insights"
         />
