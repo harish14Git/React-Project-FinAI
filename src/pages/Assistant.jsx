@@ -5,8 +5,8 @@ const Assistant = () => {
   const [chat, setChat] = useState([]);
   const [typing, setTyping] = useState(false);
 
-  const assistantAvatar = "/src/assets/Images/assistant-avatar.png";
-  const userAvatar = "/src/assets/Images/user-avatar.png"; // add any user image here
+  const assistantAvatar = "/src/assets/images/assistant-avatar.png";
+  const userAvatar = "/src/assets/images/user-avatar.png"; // add any user image here
 
   // Basic smart reply logic
   const generateResponse = (msg) => {
